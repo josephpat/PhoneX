@@ -1,0 +1,115 @@
+{
+  "code": 200,
+  "status": "success",
+  "have_next_page": 0,
+  "data": [
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/97ef5537-c58e-495c-bf2e-426f0b81f1e3.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/97ef5537-c58e-495c-bf2e-426f0b81f1e3.webp",
+      "is_premium": 0,
+      "is_video": 1
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/0c2e824c-840b-4fbb-81af-b2ce94d6811b.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/0c2e824c-840b-4fbb-81af-b2ce94d6811b.webp",
+      "is_premium": 1,
+      "is_video": 1
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/2d9afc4d-d87d-482b-98a0-110ef3b0c092.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/2d9afc4d-d87d-482b-98a0-110ef3b0c092.webp",
+      "is_premium": 1,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/ddfe1050-885f-47b0-982d-ded79eade64b.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/ddfe1050-885f-47b0-982d-ded79eade64b.webp",
+      "is_premium": 1,
+      "is_video": 1
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/b80aaa52-5d36-40e7-bdf8-7fce1efada1d.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/b80aaa52-5d36-40e7-bdf8-7fce1efada1d.webp",
+      "is_premium": 1,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/2b515cc5-ac51-4767-84af-e3806a07090d.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/2b515cc5-ac51-4767-84af-e3806a07090d.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/893fc677-f88e-4f5a-892a-3e30fbe9624c.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/893fc677-f88e-4f5a-892a-3e30fbe9624c.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c5cc01f0-ebb7-407a-97c8-6f54c97d2c1b.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c5cc01f0-ebb7-407a-97c8-6f54c97d2c1b.webp",
+      "is_premium": 0,
+      "is_video": 1
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/9ce457b0-da96-45ec-9301-3c544769fe18.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/9ce457b0-da96-45ec-9301-3c544769fe18.webp",
+      "is_premium": 1,
+      "is_video": 1
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c2321e1e-490b-4c34-999b-49dcc021b55f.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c2321e1e-490b-4c34-999b-49dcc021b55f.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/759c7385-6166-4bc6-8c35-d8138129f5b9.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/759c7385-6166-4bc6-8c35-d8138129f5b9.webp",
+      "is_premium": 1,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/3fa8cfaf-a53b-487a-8a6c-15cbd6d38ec6.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/3fa8cfaf-a53b-487a-8a6c-15cbd6d38ec6.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/32a393e4-ecad-4a20-a507-c02705128592.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/32a393e4-ecad-4a20-a507-c02705128592.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c3f8c9c0-6c76-42fd-a6d5-9a80fcbfde11.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/c3f8c9c0-6c76-42fd-a6d5-9a80fcbfde11.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/edd968ac-f6d2-49b5-995a-7e28392966b4.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/edd968ac-f6d2-49b5-995a-7e28392966b4.webp",
+      "is_premium": 1,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/1a766cc7-2a76-433d-9841-ee3ede01a374.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/1a766cc7-2a76-433d-9841-ee3ede01a374.webp",
+      "is_premium": 1,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/a0aff732-cc61-43d0-96ac-87251233ea18.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/a0aff732-cc61-43d0-96ac-87251233ea18.webp",
+      "is_premium": 0,
+      "is_video": 0
+    },
+    {
+      "zip": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/16ce12fd-c5b5-48ee-8f15-ff1afb8880c6.zip",
+      "thumbnail": "https://apps.hqinfosystem.com/phonex/theme/v1/assets/16ce12fd-c5b5-48ee-8f15-ff1afb8880c6.webp",
+      "is_premium": 0,
+      "is_video": 0
+    }
+  ]
+}
